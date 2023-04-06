@@ -29,4 +29,5 @@ My ultimate goal is to become an ML Engineer, as well as an MLOps Engineer, and 
 📫 Let's Connect
 
 
-If you're interested in learning more about my work, or have any opportunities you'd like to discuss, feel free to connect with me on LinkedIn.
+If you're interested in learning more about my work, or have any opportunities you'd like to discuss, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ducanhho2296/)
+
