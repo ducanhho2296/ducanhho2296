@@ -1,10 +1,32 @@
-- 👋 Hi, I’m Ducanh
-- 👀 I’m interested in ML, Deep learning
-- 🌱 I’m currently learning Machine learning/DL and aiming to become an ML Engineer as well as MLOps Engineer
-- 💞️ I’m looking for collaborate on Kaggle projects to practice ML skills
-- 📫 My Email: ducanh.ho2296@gmail.com
+Hi there 👋
 
-<!---
-ducanhho2296/ducanhho2296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate machine learning enthusiast with experience in deep learning, PyTorch, TensorFlow, and other related technologies. In addition to my ML/DL expertise, I also have knowledge in DevOps, Kubernetes, CI/CD, Git version control, microservices, and fastapi servers.
+
+My ultimate goal is to become an ML Engineer, as well as an MLOps Engineer, and help organizations leverage the power of machine learning and AI to solve complex business challenges.
+
+🔭 Skills and Tools
+
+
+- Machine Learning / Deep Learning
+- PyTorch, TensorFlow
+- DevOps
+- Kubernetes
+- CI/CD
+- Git Version Control
+- Microservices
+- FastAPI Servers
+
+
+🌱 Learning and Development Goals
+
+
+Further hone my machine learning and deep learning skills
+Gain experience in cloud-based machine learning platforms and services
+Continue learning about MLOps best practices
+Develop expertise in natural language processing and computer vision
+
+
+📫 Let's Connect
+
+
+If you're interested in learning more about my work, or have any opportunities you'd like to discuss, feel free to connect with me on LinkedIn.
