@@ -20,10 +20,10 @@ My ultimate goal is to become an ML Engineer, as well as an MLOps Engineer, and 
 🌱 Learning and Development Goals
 
 
-Further hone my machine learning and deep learning skills
-Gain experience in cloud-based machine learning platforms and services
-Continue learning about MLOps best practices
-Develop expertise in natural language processing and computer vision
+- Further hone my machine learning and deep learning skills
+- Gain experience in cloud-based machine learning platforms and services
+- Continue learning about MLOps best practices
+- Develop expertise in natural language processing and computer vision
 
 
 📫 Let's Connect
