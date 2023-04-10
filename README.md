@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a passionate machine learning enthusiast with experience in deep learning, PyTorch, TensorFlow, and other related technologies. In addition to my ML/DL expertise, I also have knowledge in DevOps, Kubernetes, CI/CD, Git version control, microservices, and fastapi servers.
+I'm a passionate machine learning enthusiast with experience in deep learning, PyTorch, TensorFlow, and other related technologies. In addition to my ML/DL expertise, I also have knowledge in DevOps with Kubernetes, CI/CD, Git version control, microservices, and fastapi servers.
 
 My ultimate goal is to become an ML Engineer, as well as an MLOps Engineer, and help organizations leverage the power of machine learning and AI to solve complex business challenges.
 
