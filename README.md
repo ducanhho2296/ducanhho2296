@@ -11,7 +11,5 @@ Hi there 👋<br><br>I'm a passionate machine learning enthusiast with experienc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ducanhho2296&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhho2296&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ducanhho2296&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
